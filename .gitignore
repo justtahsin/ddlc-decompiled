@@ -1,0 +1,16 @@
+*
+
+!.gitignore
+!README.md
+
+!decompiled/
+!decompiled/**
+
+!notes/
+!notes/**
+
+!tools/
+!tools/rpa_extract.py
+
+# oyunun kendi derlenmiş script'leri — çıktımız değil
+decompiled/*.rpyc
